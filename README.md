@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaycee1759-cyber
 - 👀 I’m interested in full-stack web-development
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on websites developments
 - 📫 How to reach me cruzkaycee26@gmail.com
 - 😄 Pronouns: ...
